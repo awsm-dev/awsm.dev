@@ -1,6 +1,6 @@
-# AWSM-DEV Public Feedback & Issue Tracker
+# AWSM.DEV Public Feedback & Issue Tracker
 
-Welcome to the official public issue tracker for **AWSM-DEV**. 
+Welcome to the official public issue tracker for **AWSM.DEV**. 
 
 Our core source code is private, but we believe in building in public when it comes to listening to our users. We use this repository to track bugs, gather feature requests, and communicate with our community.
 
